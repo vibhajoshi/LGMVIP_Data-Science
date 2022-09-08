@@ -1,5 +1,4 @@
-Author
-Vibha V Joshi
+<h3>Author Vibha V Joshi</h3><br/>
 Data Science Intern - LetsGrowMore
 September 2022
 
