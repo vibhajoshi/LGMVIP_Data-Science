@@ -14,6 +14,11 @@ This particular ML project is usually referred to as the “Hello World” of Ma
 
 <h6>Dataset Link : https://www.canva.com/link?target=https%3A%2F%2Fraw.githubusercontent.com%2Fmwitiderrick%2Fstockprice%2Fmaster%2FNSE-TATAGLOBAL.csv&design=DAEjrwWV35w&accessRole=viewer&linkSource=document </h6>
 
+<h3> Task 1.3) Music Recommendation System </h3>
+
+https://www.7pace.com/wp-content/uploads/2020/08/COVER-Music.png
+
+<h6> Dataset Link : https://www.kaggle.com/c/kkbox-music-recommendation-challenge/data
 <h3> Task 1.4) Image to pencil sketch </h3>
 
 
