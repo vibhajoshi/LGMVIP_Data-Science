@@ -19,7 +19,7 @@ This particular ML project is usually referred to as the “Hello World” of Ma
 
 ![image](https://user-images.githubusercontent.com/73216270/191974939-f461d3b2-979f-4dc7-8f70-63a425dde95f.png)
 
-Image source : mrbean2.jpg 
+Image source : https://github.com/vibhajoshi/LGMVIP_Data-Science/blob/main/mrbean2.jpg 
 
  
 
