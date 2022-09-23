@@ -16,7 +16,8 @@ This particular ML project is usually referred to as the “Hello World” of Ma
 
 <h3> Task 1.3) Music Recommendation System </h3>
 
-https://www.7pace.com/wp-content/uploads/2020/08/COVER-Music.png
+![image](https://user-images.githubusercontent.com/73216270/192003576-80e22fd0-80c6-440f-a750-4f35d864b325.png)
+
 
 <h6> Dataset Link : https://www.kaggle.com/c/kkbox-music-recommendation-challenge/data
 <h3> Task 1.4) Image to pencil sketch </h3>
