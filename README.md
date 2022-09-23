@@ -14,11 +14,12 @@ This particular ML project is usually referred to as the “Hello World” of Ma
 
 <h6>Dataset Link : https://www.canva.com/link?target=https%3A%2F%2Fraw.githubusercontent.com%2Fmwitiderrick%2Fstockprice%2Fmaster%2FNSE-TATAGLOBAL.csv&design=DAEjrwWV35w&accessRole=viewer&linkSource=document </h6>
 
-<h3> Task 1.4) Image to pencil sketch
+<h3> Task 1.4) Image to pencil sketch </h3>
 
 
 ![image](https://user-images.githubusercontent.com/73216270/191974939-f461d3b2-979f-4dc7-8f70-63a425dde95f.png)
 
 Image source : https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FMr-Bean-The-Animated-Series%2Fdp%2FB076HBLDVR&psig=AOvVaw3Cz8lRuDKzxPd--qTc1Ffn&ust=1664023997071000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJD4nKT6qvoCFQAAAAAdAAAAABAI 
 
+ 
 
